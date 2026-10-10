@@ -1,0 +1,6 @@
+build/
+*.o
+*.a
+__pycache__/
+examples/mlp_large.txt
+.vscode/
